@@ -11,6 +11,8 @@ GorillaMenu: https://github.com/wryser/Gorilla-Menu (Required for Wrysers GoPro)
 
 BananaOS: https://github.com/HuskyGT/Banana-OS/
 
+CustomCosmetics: https://github.com/wryser/CustomCosmetics/ (Support Wryser at https://www.patreon.com/wryser/)
+
 GorillaRichPresence: Currently exclusive to Dev's Ko-Fi at https://ko-fi.com/dev9998
 
 Last updated: 9/28/24
