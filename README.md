@@ -1,28 +1,16 @@
 # My-Mods
-This Github repository is here to show where I get all of Gorilla Tag mods from. I will update this as frequently as I can, but I won't be as active right now as I am banned from Gorilla Tag.
-
-EnthusiastHeadphones: https://github.com/developer9998/EnthusiastHeadphones
-
-GorillaCraft: https://github.com/developer9998/GorillaCraft (Currently exclusive to Dev's Patreon.)
-
-GorillaCustomizedFace: Exclusive to Dev's Patreon.
-
-GorillaFriends: https://github.com/RusJJ/GorillaFriends
-
-GorillaInfoWatch: https://github.com/developer9998/GorillaInfoWatch (Currently exclusive to Dev's Patreon.)
+This Github repository is here to show where I get all of Gorilla Tag mods from. I will update this as frequently as I can, be patient please!
 
 GorillaShirts: https://github.com/developer9998/GorillaShirts
 
 Monke Dimensions: https://github.com/Chin0303/Monke-Dimensions
 
-ScoreboardTweaks: https://github.com/RusJJ/ScoreboardTweaks
+Wrysers GoPro: https://github.com/wryser/Wrysers-GoPro (Support Wryser at https://www.patreon.com/wryser/)
 
-Wrysers GoPro: https://github.com/wryser/Wrysers-GoPro (Version 4.1 is exclusive to Wrysers Patreon @ https://www.patreon.com/wryser)
+GorillaMenu: https://github.com/wryser/Gorilla-Menu (Required for Wrysers GoPro)
 
-FuckOffMonkeySounds: https://github.com/lunakittyyy/FuckOffMonkeySounds
+BananaOS: https://github.com/HuskyGT/Banana-OS/
 
-GorillaShotForce: https://github.com/developer9998/GorillaShotForce
+GorillaRichPresence: Currently exclusive to Dev's Ko-Fi at https://ko-fi.com/dev9998
 
-GreenScreenMod: https://github.com/08Robfin/GreenScreenMod
-
-QuitboxVisualizer: https://github.com/lunakittyyy/QuitboxVisualizer
+Last updated: 9/28/24
