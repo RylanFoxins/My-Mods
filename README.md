@@ -15,4 +15,8 @@ CustomCosmetics: https://github.com/wryser/CustomCosmetics/ (Support Wryser at h
 
 GorillaRichPresence: Currently exclusive to Dev's Ko-Fi at https://ko-fi.com/dev9998
 
-Last updated: 9/28/24
+Gorilla Homes: https://github.com/wryser/Gorilla-Homes (Support Wryser at https://www.patreon.com/wryser/)
+
+RassMobile: https://github.com/rass1010/RassMobile (Hasn't been updated in a while, be careful!)
+
+Last updated: 10/6/24
