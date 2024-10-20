@@ -3,8 +3,6 @@ This Github repository is here to show where I get all of Gorilla Tag mods from.
 
 GorillaShirts: https://github.com/developer9998/GorillaShirts
 
-Monke Dimensions: https://github.com/Chin0303/Monke-Dimensions
-
 Wrysers GoPro: https://github.com/wryser/Wrysers-GoPro (Support Wryser at https://www.patreon.com/wryser/)
 
 GorillaMenu: https://github.com/wryser/Gorilla-Menu (Required for Wrysers GoPro)
@@ -19,4 +17,10 @@ Gorilla Homes: https://github.com/wryser/Gorilla-Homes (Support Wryser at https:
 
 RassMobile: https://github.com/rass1010/RassMobile (Hasn't been updated in a while, be careful!)
 
-Last updated: 10/6/24
+Grate: https://github.com/The-Graze/Grate/ (Fork of Bark, really good!)
+
+Graze's Blink Mod: https://github.com/The-Graze/Blink2
+
+ProfilePictures: https://github.com/The-Graze/ProfilePictures
+
+Last updated: 10/19/24
