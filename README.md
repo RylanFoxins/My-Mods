@@ -2,7 +2,19 @@
 
 #
 
-As of now, I'm not really using mods anymore. They are cool and have a lot QOL things and some cool gimmicks, but I haven't seen myself using them as much anymore. This will be updated when I get back into modding, but for now I'm only modding every once in a while to test a friend's mod or something of that such.
+# I'm back to modding! I'll update this README sooner or later while I figure out other things.
+
+PLACEHOLDER: https://example.com
 
 
-Last updated: 4/11/25
+PLACEHOLDER: https://example.com
+
+
+PLACEHOLDER: https://example.com
+
+
+PLACEHOLDER: https://example.com
+#
+I am only showing the actual mods, not the dependencies of those mods. For easier access, I'd recommend using [Graze's MonkeModManager](https://github.com/The-Graze/MonkeModManager).
+
+Last updated: 6/3/25
